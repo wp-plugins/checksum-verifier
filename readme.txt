@@ -25,6 +25,10 @@ _Checksum Verifier_ works as a “silent” background process and will only bot
 Better security with WordPress.
 
 
+= Usable Hooks =
+* [checksum_verifier_ignore_files](https://gist.github.com/sergejmueller/59c014d82347215784f4)
+
+
 = Memory Usage =
 * Back-end: ~ 0,06 MB
 * Front-end: ~ 0,01 MB
