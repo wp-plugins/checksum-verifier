@@ -263,7 +263,7 @@ class Checksum_Verifier
             $input,
             array(
                 '<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=ZAQUT9RLPW8QN" target="_blank">PayPal</a>',
-                '<a href="https://flattr.com/t/1323822" target="_blank">Flattr</a>',
+                '<a href="https://flattr.com/thing/9e7774382f03ec4cb52bfd2acec4b1aa" target="_blank">Flattr</a>',
                 sprintf(
                     '%s %s',
                     esc_html__('Next check in', 'checksum_verifier'),
