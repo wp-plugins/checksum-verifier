@@ -108,7 +108,7 @@ class Checksum_Verifier
         set_site_transient(
             $transient,
             $checksums,
-            4 * WEEK_IN_SECONDS
+            DAY_IN_SECONDS
         );
 
         return $checksums;
@@ -207,7 +207,7 @@ class Checksum_Verifier
         $body = wp_specialchars_decode(
             sprintf(
                 "%s:\r\n\r\n- %s",
-                esc_html__('Checksums do not match for the following files', 'checksum_verifier'),
+                esc_html__('Official checksums do not match for the following files', 'checksum_verifier'),
                 implode("\r\n- ", $matches)
             ),
             ENT_QUOTES

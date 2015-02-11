@@ -24,6 +24,6 @@ msgstr "Очередная проверка через"
 msgid "Checksum Verifier Alert"
 msgstr "Checksum Verifier тревога"
 
-msgid "Checksums do not match for the following files"
+msgid "Official checksums do not match for the following files"
 msgstr "Для следующих файлов контрольные суммы не совпадают"
 

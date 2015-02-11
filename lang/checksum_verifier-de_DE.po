@@ -24,6 +24,6 @@ msgstr "Nächste Prüfung in"
 msgid "Checksum Verifier Alert"
 msgstr "Checksum Verifier Alarm"
 
-msgid "Checksums do not match for the following files"
-msgstr "Bei folgenden Dateien stimmen die Prüfsummen nicht überein"
+msgid "Official checksums do not match for the following files"
+msgstr "Folgende Dateien weichen laut Prüfsumme von den offiziellen Dateien ab"
 
