@@ -72,7 +72,7 @@ class Checksum_Verifier
                     'version' => $version,
                     'locale'  => $language
                 ),
-                'http://api.wordpress.org/core/checksums/1.0/'
+                'https://api.wordpress.org/core/checksums/1.0/'
             )
         );
 
